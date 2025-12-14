@@ -97,13 +97,8 @@ Gunakan akun berikut untuk masuk ke dalam aplikasi:
   <img src="media/dashboard.png" alt="Dashboard Page" width="60%">
 </p>
 
-<p align="center">
-  <b>Features: Mutation & E-Wallet</b><br>
-  <img src="media/features.png" alt="Features" width="60%">
-</p>
-
 ---
 
 <p align="center">
-  Created with ❤️ by <b>Ubay Kopling</b>
+  Created with ❤️ by <b>BAY</b>
 </p>

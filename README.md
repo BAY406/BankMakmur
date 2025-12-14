@@ -89,12 +89,12 @@ Gunakan akun berikut untuk masuk ke dalam aplikasi:
 
 <p align="center">
   <b>Login Interface</b><br>
-  <img src="media/login.png" alt="Login Page" width="60%">
+  <img src="media/login.png" alt="Login Page" width="100%">
 </p>
 
 <p align="center">
   <b>Main Dashboard</b><br>
-  <img src="media/dashboard.png" alt="Dashboard Page" width="60%">
+  <img src="media/dashboard.png" alt="Dashboard Page" width="100%">
 </p>
 
 ---
